@@ -18,7 +18,7 @@
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/IMAF-COOPERATION/MaisApp-app.git
+   git clone https://github.com/imaf-coop/MaisApp-app.git
    cd MaisApp-app
 ````
 
